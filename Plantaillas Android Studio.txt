@@ -1,0 +1,20 @@
+- 1.Template Android Studio and AndroidIDE-Rv2 No Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 2.Template Android Studio and AndroidIDE-Rv2 Empty Activity Jetpack Compose Kotlin Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 3.Template Android Studio and AndroidIDE-Rv2 Basic Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 4.Template Android Studio and AndroidIDE-Rv2 Bottom Navigation Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 5.Template Android Studio and AndroidIDE-Rv2 Empty Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 6.Template Android Studio and AndroidIDE-Rv2 Navigation Drawer Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 7.Template Android Studio and AndroidIDE-Rv2 Responsive Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 8.Template Android Studio and AndroidIDE-Rv2 Game Ativity(C++) Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 9.Template Android Studio and AndroidIDE-Rv2 Native(C++) Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
+- 10.Template Android Studio and AndroidIDE-Rv2 libGDX Game Java Gradle 8.14.3 Groovy DSL AGP 8.9.3
+- 11.Template Android Studio and AndroidIDE-Rv2 No Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 12.Template Android Studio and AndroidIDE-Rv2 Empty Activity Jetpack Compose Kotlin Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 13.Template Android Studio and AndroidIDE-Rv2 Basic Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 14.Template Android Studio and AndroidIDE-Rv2 Bottom Navigation Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 15.Template Android Studio and AndroidIDE-Rv2 Empty Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 16.Template Android Studio and AndroidIDE-Rv2 Navigation Drawer Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 17.Template Android Studio and AndroidIDE-Rv2 Responsive Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 18.Template Android Studio and AndroidIDE-Rv2 Game Ativity(C++) Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 19.Template Android Studio and AndroidIDE-Rv2 Native(C++) Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
+- 20.Template Android Studio and AndroidIDE-Rv2 libGDX Game Kotlin Gradle 8.14.3 Kotlin DSL AGP 8.9.3
