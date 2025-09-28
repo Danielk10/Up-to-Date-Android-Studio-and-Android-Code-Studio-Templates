@@ -1,14 +1,14 @@
-# 📦 Up-to-Date-Android-Studio-and-AndroidIDE-Rv2-Templates  
+# 📦 Up-to-Date-Android-Studio-and-android-code-studio-Templates  
 
 ## 📖 Description  
-This repository provides **modern and up-to-date Android project templates**, ready to use in **[Android Studio](https://developer.android.com/studio)** and the mobile IDE **[AndroidIDE-Rv2](https://github.com/Mohammed-Baqer-null/AndroidIDE-Rv2)**.  
+This repository provides **modern and up-to-date Android project templates**, ready to use in **[Android Studio](https://developer.android.com/studio)** and the mobile IDE **[android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio)**.  
 
 All templates are designed to:  
 - ✅ Always follow the **latest Android Studio project structure**.  
 - ✅ Include the **latest Gradle** and **AGP (Android Gradle Plugin)** versions.  
 - ✅ Support both **Java** and **Kotlin**.  
 - ✅ Be available as **.zip archives** and also **uncompressed**.  
-- ✅ Work seamlessly in **AndroidIDE-Rv2** (just switch AGP to version `10.0.0`).  
+- ✅ Work seamlessly in **android-code-studio** (just switch AGP to version `10.0.0`).  
 
 ---
 
@@ -32,7 +32,7 @@ All templates are designed to:
 ## 🔧 Compatibility  
 
 - **Android Studio** → always up-to-date with the latest Gradle and AGP.  
-- **AndroidIDE-Rv2** → compatible by switching **AGP to 10.0.0** in `build.gradle`.  
+- **android-code-studio** → compatible by switching **AGP to 10.0.0** in `build.gradle`.  
 - **Supported Languages**:  
   - ☕ **Java**  
   - 🐦 **Kotlin**  
@@ -56,7 +56,7 @@ This repository is intended as an **open and collaborative resource**.
 We invite developers to:  
 - 📌 Keep templates updated.  
 - 📌 Report issues and suggest improvements.  
-- 📌 Contribute new templates for Android Studio and AndroidIDE-Rv2.  
+- 📌 Contribute new templates for Android Studio and android-code-studio.  
 
 👉 Your contribution will help more developers start projects quickly without worrying about outdated configurations!  
 
@@ -71,4 +71,4 @@ See the [`LICENSE`](./LICENSE) file for details.
 
 ## 🚀 Goal  
 
-The main goal is to give the **Android developer community** access to always up-to-date templates, compatible across platforms (Android Studio on PC and AndroidIDE-Rv2 on mobile), enabling fast, stable, and modern project creation.  
+The main goal is to give the **Android developer community** access to always up-to-date templates, compatible across platforms (Android Studio on PC and android-code-studio on mobile), enabling fast, stable, and modern project creation.  
