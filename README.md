@@ -1,14 +1,14 @@
 # 📦 Up-to-Date-Android-Studio-and-android-code-studio-Templates  
 
 ## 📖 Description  
-This repository provides **modern and up-to-date Android project templates**, ready to use in **[Android Studio](https://developer.android.com/studio)** and the mobile IDE **[android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio)**.  
+This repository provides **modern and up-to-date Android project templates**, ready to use in **[Android Studio](https://developer.android.com/studio)** and the mobile IDE **[Android Code Studio](https://github.com/AndroidCSOfficial/android-code-studio)**.  
 
 All templates are designed to:  
 - ✅ Always follow the **latest Android Studio project structure**.  
 - ✅ Include the **latest Gradle** and **AGP (Android Gradle Plugin)** versions.  
 - ✅ Support both **Java** and **Kotlin**.  
 - ✅ Be available as **.zip archives** and also **uncompressed**.  
-- ✅ Work seamlessly in **android-code-studio** (just switch AGP to version `10.0.0`).  
+- ✅ Work seamlessly in **Android Code Studio** (just switch AGP to version `10.0.0`).  
 
 ---
 
@@ -32,7 +32,7 @@ All templates are designed to:
 ## 🔧 Compatibility  
 
 - **Android Studio** → always up-to-date with the latest Gradle and AGP.  
-- **android-code-studio** → compatible by switching **AGP to 10.0.0** in `build.gradle`.  
+- **Android Code Studio** → compatible by switching **AGP to 10.0.0** in `build.gradle`.  
 - **Supported Languages**:  
   - ☕ **Java**  
   - 🐦 **Kotlin**  
