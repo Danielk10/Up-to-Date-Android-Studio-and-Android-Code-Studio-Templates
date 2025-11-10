@@ -1,4 +1,4 @@
-# 📦 Up-to-Date-Android-Studio-and-android-code-studio-Templates  
+# 📦 Up-to-Date-Android-Studio-and-Android-Code-Studio-Templates  
 
 ## 📖 Description  
 This repository provides **modern and up-to-date Android project templates**, ready to use in **[Android Studio](https://developer.android.com/studio)** and the mobile IDE **[Android Code Studio](https://github.com/AndroidCSOfficial/android-code-studio)**.  
