@@ -1,20 +1,26 @@
-- 1.Template Android Studio and Android Code Studio No Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 2.Template Android Studio and Android Code Studio Empty Activity Jetpack Compose Kotlin Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 3.Template Android Studio and Android Code Studio Basic Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 4.Template Android Studio and Android Code Studio Bottom Navigation Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 5.Template Android Studio and Android Code Studio Empty Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 6.Template Android Studio and Android Code Studio Navigation Drawer Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 7.Template Android Studio and Android Code Studio Responsive Views Ativity Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 8.Template Android Studio and Android Code Studio Game Ativity(C++) Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 9.Template Android Studio and Android Code Studio Native(C++) Java Gradle 8.14.3 Groovy DSL AGP 13.0.0
-- 10.Template Android Studio and Android Code Studio libGDX Game Java Gradle 8.14.3 Groovy DSL AGP 8.9.3
-- 11.Template Android Studio and Android Code Studio No Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 12.Template Android Studio and Android Code Studio Empty Activity Jetpack Compose Kotlin Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 13.Template Android Studio and Android Code Studio Basic Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 14.Template Android Studio and Android Code Studio Bottom Navigation Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 15.Template Android Studio and Android Code Studio Empty Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 16.Template Android Studio and Android Code Studio Navigation Drawer Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 17.Template Android Studio and Android Code Studio Responsive Views Ativity Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 18.Template Android Studio and Android Code Studio Game Ativity(C++) Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 19.Template Android Studio and Android Code Studio Native(C++) Java Gradle 8.14.3 Kotlin DSL AGP 13.0.0
-- 20.Template Android Studio and Android Code Studio libGDX Game Kotlin Gradle 8.14.3 Kotlin DSL AGP 8.9.3
+- 1.Template Android Studio and Android Code Studio No Ativity Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 2.Template Android Studio and Android Code Studio Empty Activity Jetpack Compose Kotlin Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 3.Template Android Studio and Android Code Studio Basic Views Ativity Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 4.Template Android Studio and Android Code Studio Navigation UI Ativity Kotlin Gradle 9.5.2 Groovy DSL AGP 9.2.1
+- 5.Template Android Studio and Android Code Studio Empty Views Ativity Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 6.Template Android Studio and Android Code Studio Responsive Views Ativity Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 7.Template Android Studio and Android Code Studio Game Ativity(C++) Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 8.Template Android Studio and Android Code Studio Native(C++) Java Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 9.Template Android Studio and Android Code Studio Gemini API Kotlin Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 10.Template Android Studio and Android Code Studio libGDX Game Java 11 Full Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 11.Template Android Studio and Android Code Studio libGDX Game Java 17 None html Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 12.Template Android Studio and Android Code Studio libGDX Game Java 17 None html and ios Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 13.Template Android Studio and Android Code Studio libGDX Game Java 11 None ios Gradle 9.5.1 Groovy DSL AGP 9.2.1
+- 14.Template Android Studio and Android Code Studio No Ativity Kotlin Gradle 9.5.1  Kotlin DSL AGP 9.2.1
+- 15.Template Android Studio and Android Code Studio Empty Activity Jetpack Compose Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 16.Template Android Studio and Android Code Studio Basic Views Ativity Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 17.Template Android Studio and Android Code Studio Navigation UI Ativity Kotlin Gradle 9.5.2 Kotlin DSL AGP 9.2.1
+- 18.Template Android Studio and Android Code Studio Empty Views Ativity Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 19.Template Android Studio and Android Code Studio Responsive Views Ativity Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 20.Template Android Studio and Android Code Studio Game Ativity(C++) Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 21.Template Android Studio and Android Code Studio Native(C++) Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 22.Template Android Studio and Android Code Studio Gemini API Kotlin Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 23.Template Android Studio and Android Code Studio libGDX Game Kotlin SDK Java 11 Full Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 24.Template Android Studio and Android Code Studio libGDX Game Kotlin SDK Java 17 None html Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 25.Template Android Studio and Android Code Studio libGDX Game Kotlin SDK Java 17 None html and ios Gradle 9.5.1 Kotlin DSL AGP 9.2.1
+- 26.Template Android Studio and Android Code Studio libGDX Game Kotlin SDK Java 11 None ios Gradle 9.5.1 Kotlin DSL AGP 9.2.1
