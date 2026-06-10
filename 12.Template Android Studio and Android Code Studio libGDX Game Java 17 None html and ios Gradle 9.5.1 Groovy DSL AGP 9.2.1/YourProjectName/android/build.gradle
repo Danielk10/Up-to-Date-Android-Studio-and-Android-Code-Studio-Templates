@@ -10,7 +10,8 @@ apply plugin: 'com.android.application'
 
 android {
   namespace = "io.github.some_example_name"
-  compileSdk = 35
+  compileSdk = 37
+  buildToolsVersion "37.0.0"
   sourceSets {
     main {
       manifest.srcFile 'AndroidManifest.xml'
@@ -33,7 +34,7 @@ android {
   defaultConfig {
     applicationId 'io.github.some_example_name'
     minSdkVersion 21
-    targetSdkVersion 35
+    targetSdkVersion 37
     versionCode 1
     versionName "1.0"
   }
